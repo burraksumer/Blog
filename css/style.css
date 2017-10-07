@@ -1,0 +1,149 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Roboto';
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.pf-sidebar {
+  padding: 5vw;
+  /* background-color: #A7294D; */
+  background-image: url("../img/bg.jpeg");
+  color: #F0EEF1;
+}
+
+.pf-grid-item {
+  background-color: gray;
+  padding: 3vw;
+}
+
+.blog{
+  background-image: url("../img/blog-bg.jpeg");
+  background-size: 100%;
+  background-attachment: fixed;
+  /* background-repeat: no-repeat; */
+  color: #F0EEF1;
+}
+
+.youtube{
+  background-color: #c4302b;
+  color: #F0EEF1;
+}
+
+.twitter{
+  background-color: #4099FF;
+  color: #F0EEF1;
+}
+
+.github{
+  background-color: #6e5494;
+  color: #F0EEF1;
+}
+
+.linkedin{
+  background-color: #0077b5;
+  color: #F0EEF1;
+}
+
+.mail{
+  background-color: #ea4335;
+  color: #F0EEF1;
+}
+
+.fa-twitter-square{
+  margin: 10px;
+}
+.fa-linkedin-square{
+  margin: 10px;
+}
+.fa-github-square{
+  margin: 10px;
+}
+
+.button {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: flex;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+  transition: all 0.3s;
+  margin : 0px auto;
+  
+}
+
+.button:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.btn-primary {
+  overflow: hidden;
+}
+
+.btn-primary:after {
+  width: 100%;
+  height: 0;
+  top: 50%;
+  left: 50%;
+  background: #fff;
+  opacity: 0;
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+  -moz-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+  -ms-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+  transform: translateX(-50%) translateY(-50%) rotate(45deg);
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  color: #0e83cd;
+}
+
+.btn-primary:hover:after {
+  height: 260%;
+  opacity: 1;
+}
+
+.btn-primary:active:after {
+  height: 400%;
+  opacity: 1;
+}
+
+.main-head{
+  margin-top: 23%;
+  text-align: center;
+}
+
+.button-1{
+  margin-top: 1rem;
+}
