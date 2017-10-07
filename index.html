@@ -1,88 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
+<!-- Posts -->
+<ul id="posts">
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="shortcut icon" href="img/favicon.png">
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/flex.css">
-<title>burak Sümer dot com</title>
-</head>
+	{% for post in paginator.posts %}
 
-<body>
+	  <li class="post">
+	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
 
-  <div class="pf-container hidden">
+    {% endfor %}
 
-    <div class="pf-sidebar-container">
-      <div class="pf-sidebar">
-        <h1 class="main-head">Helo World</h1>
-        <p class="p-1">Adım Burak Sümer, üretmete çalışıyorum. Senin için, benim için...</p>
-        
-        <div class="media">
-            <a href="https://twitter.com/burraksumer" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
-            <a href="https://github.com/burraksumer" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i></a>
-            <a href="https://www.linkedin.com/in/burraksumer/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-        </div>
-
-        <a href="mailto:buraksumer13@gmail.com" target="_blank"><button class="button btn-primary button-1">Bana Ulaş</button></a>
-
-      </div>
-    </div>
-
-    <div class="pf-content">
-      <p>Merhaba, bu siteye girdiğine göre beni muhtemelen tanıyosun ama ben şöyle birdaha bir yazayım. 1999'da İstanbul'da doğdum ve o zamandan beri buralarda level kasıyorum. İyi xp veriyor. Her neyse işte küçüktüm falan büyüdüm, iş bulma, çalışma ve bir yandan üniversiteye giderek acı çekme zamanına geldim. Küçüklüğümden beri kod yazmaya ve bir şeyler geliştirmeye çok meraklıydım o yüzden bu websitesini yaptım. Şimdide daha çok kodlama öğrenerek hayatımın kalanını bu işle geçirmek için öğrenmeye çalışıyorum. Umarım başarılı olabilirim. Zaten burada çok takılmazsın aşağıdaki linklerden birine tıka ve bana gir, yani yaptığım işlere ulaş!</p>
-
-      <h1>İnternette Ben</h1>
-
-      <div class="pf-grid">
-
-        <div class="pf-grid-item blog">
-          <h2>Blog</h2>
-          <p>Her daim bir blog'um olsun istedim, düzenli yazayım falan filan. Hiç beceremedim, acaba bu sefer başarılı olacak mıyım?</p>
-          <a href="/blog/" target="_blank">Blog'a git <span class="fa fa-arrow-right"></span></a>
-        </div>
-
-        <div class="pf-grid-item youtube">
-          <h2>Youtube</h2>
-          <p>Uzun süredir Youtube üzerinde her türlü içeriği ürettim ve üretmeye devam ediyorum, edicem. Ne duruyorsun</p>
-          <a href="https://www.youtube.com/buraksumerr" target="_blank">Youtube'a git <span class="fa fa-arrow-right"></span></a>
-        </div>
-
-        <div class="pf-grid-item twitter">
-          <h2>Twitter</h2>
-          <p>Twitter'da yüzyıllardır fikirlerimi belirtiyorum ve en aktif olduğum platform. Gece yarısından tut sabahın körüne kadar daim bana oradan yazabilirsin.</p>
-          <a href="https://twitter.com/burraksumer" target="_blank">Twitter'a git <span class="fa fa-arrow-right"></span></a>
-        </div>
-
-        <div class="pf-grid-item github">
-          <h2>GitHub</h2>
-          <p>Küçükken kod yazmaya çok meraklaydım, son zamanlarda yine öyleyim, ingilizce okuyorum ama sanırım ileride programcı veya "front end developer" olabilirim.</p>
-          <a href="https://github.com/burraksumer" target="_blank">GitHub'a git <span class="fa fa-arrow-right"></span></a>
-        </div>
-
-        <div class="pf-grid-item linkedin">
-          <h2>LinkedIn</h2>
-          <p>İş falan filan, belki lazım olur diye açmıştım bunu zamanında, henüz hiç işime yaramadı :(</p>
-          <a href="https://www.linkedin.com/in/burraksumer/" target="_blank">LinkedIn'e git <span class="fa fa-arrow-right"></span></a>
-        </div>
-
-      </div>
-
-    </div>
-
-  </div>
-  <script
-  src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
-  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
-  <script src="js/main.js"></script>
-</body>
-</html>
+</ul>
