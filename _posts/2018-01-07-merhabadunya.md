@@ -12,12 +12,13 @@ Sorumluluklardan bahsetmişken, şu an final sınavlarıma çalışıyor olmam g
 
 Eskiden gitar çalardım, küçükken öğrenmiştim. Uzun süre çalmayınca unuttum. Bu aralar tekrar başlamak istiyorum. Eski gitarımın paslanmış tellerinin ve bozulmuş burgusunun yenilerini sipariş ettim. Önümüzdeki hafta onları takıp ellerimi ısındırmak istiyorum. Daha sonrası için de planım bir klavye almak, bir org. Bu sayede evde bulunduğum süreçte en büyük hayallerimden biri olan piyanoyu öğrenmeye başlabilirim. Kuyruklu bir piyano almam günümüz şartlarında imkansız gibi görünse de hayatın önümüze neler sunacağı belli olmaz. Belki de bir gün bu bloğa piyanoyu nasıl öğrendiğim ve onunla nasıl para kazandığım ile ilgili yazı yazıyor olurum, zaten ileride para kazanmak için ne yapacağım hakkında en ufak bir fikrim yok. Bu da ihtimal dahilinde yani. Şiir ve müzik gerçekten dünya üzerinde en sevdiğim on şey arasında ilk beşe girebilir. Birinci sırada ne var bilmiyorum, iki de henüz belli değil, üç gelecekteki kız arkadaşım, dört arkadaşlarım, beş ise şiir ve müzik. Ama şiir dört buçuk sayılabilir çünkü onu inanılmaz seviyorum. Okumayı ayrı, yazmayı başka bir ayrı seviyorum. Her ne kadar birbirimizi daha çok tanımasak da ben Tristram Shandy'nin yaptığı gibi size bir şeyleri anlatmak ve sizinle bazı paylaşımlar yapmak için üçyüz sayfa yazmayacağım öncesinde. İlk yazımdan bir şeyleri size verdim. Aramızdaki samimiyetin devamı adına da sizinle bu güne kadar sadece dünya üzerinde en değer verdiğim insanlardan ikisi ile paylaştığım bir şiiri paylaşmak istiyorum. Henüz bir başlığı yok, gelecekte olur mu onu da bilemiyorum. Ama bu şiir benim canımı çok yaktı, umarım sizin de ölmek istemenizi sağlar.
 
-
->Ahh young louve\
->How can ye be sea fair\
->How can ye shine sea red\
->And\
->How do thou shalt be so immortal\
+```
+Ahh young louve
+How can ye be sea fair
+How can ye shine sea red
+And
+How do thou shalt be so immortal
+```
 
 Haha, gerçekten kalbimi en çok kıran şiiri öylece paylaşacağımı mı düşündünüz? Üzgünüm, onu paylaşmak için kalbim gerçekten fazlasıyla kırık ama bu şiiri de Deniz Akçaoğlu ile konuşurken iki dakika da yazmıştım ve bunu da kimse ile paylaşmadım. Yani aramızdaki özel bağ devam ediyor, merak etme. Sadece, ben Tristram Shandy'yi sevmiştim. Umarım sen de beni seversin. Günümüz gençleri gibi YouTube videoları yapmıyorum, RSS ile takip edebileceğiniz bir blog yayınlıyorum. Tıpkı tarihteki ilk blogger olduğunu iddia ettiğim kişi gibi, doğru bildiniz __*T. S.*__
 
