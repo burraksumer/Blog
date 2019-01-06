@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Merhaba Dünya"
+date:   2018-01-07
+---
+
+# Merhaba Dünya
+
+Sanırım sonunda dünyaya açılıyorum, en azından açılmak istiyorum zira bir buçuk seneden uzun bir süredir site bu şekilde hiçbir blog yazısı olmadan duruyor. Kafamı dökecek yerler aramıyor değilim aslında ama sıkıntı kafayı dökmeyi başarabilmek, internette paylaşabilmek ben bunu kolay kolay yapabilen birisi değilim. Eski kafalıyım biraz, deftere falan yazı yazıyorum mesela, herkesin iPad kullandığı bu günlerde ben hala defter kullanıyorum, hem de A5 boyutunda, genel olarak kareli fakat tercihen değişebilir. Apple Pen yerine de uçlu kalem kullanıyorum, bunun da 0.5 uçlu olanı tercihim ama kalemler ateş pahası olduğu için seçim zamanında oy sayarken evde yemeği olan bir abladan kardeşime miras kalan, benim de ondan çaldığım Rotring'i kullanmak daha mantıklı geliyor. Tanesi otuz Türk Lirası olan bir şeyi satın almak koymuyor değil. Eski sevgilime bin Türk Lirası kaptırmak da koyuyor ama bu ayrı bir şey. Bunu kendim kullanacağım, sanırım buna daha çok dikkat etmem gerekeceği için bu yük altına girmek istemiyorum. Büyük sorumluluk.
+
+Sorumluluklardan bahsetmişken, şu an final sınavlarıma çalışıyor olmam gerekirken ben burada oturdum, evde bulunacağım son geceyi blog yazısı yazarak geçiriyorum. Aslında bu da bazı şeyleri fark etmemi sağlamıyor değil. Sanırım şiir dersi hariç derslerle aram çok yok. Bu güne kadar AA almayı başardığım tek ders. Hobilerim için pek ders yok, sevdiğim dersler çok fazla ama ben hobileri çok olan bir insan değilim. Zaten nasıl hobilerim olsun, 2019 yılında Türkiye'de yaşıyorum, yetmiyormuş gibi bir de öğrenciyim, bir edebiyat öğrencisi. Bölümün size en çok kazandırdığı şey farklı meslek gruplarının işlerini yapmayı öğrenmek olsa gerek çünkü herkes aç. Mezun olmadan kendi işinizi yapmanız çok da kolay değil. Hele bir de bu konuda, benim gibi, atılgan değilseniz. Kafam bilgisayar işlerine daha çok basıyor sanki benim. Mühendis olsam başarılı olur muydum diye soruyordum kendime hep, kısa süre içinde Macaristan'da bir üniversiteye Computer Science and Engineering bölümü için başvuru planım var. Tabi önce şu an okuduğum bölümün opium bağımlısı sekreterinden Language Provement belgemi almam gerek. Tam olarak iki aydır uğraşıyorum, kadın inat çıktı. Biraz ota ara verse benimki onbeş dakikalık bir iş bile değil. Ama o kadar fena ki kendi açrığı klasörü bulamıyor. Bu kadın para kazanıyor, ben ise çalışamıyorum. Hem de istekli olduğum halde. Sanırım hayat gerçekten adil değil. Zaten olduğunu da hiç düşünmedim aslında, yaşadığımız kapitalist dünya ne adil ne de olacak. İlahi adalet diye bir şey olduğundan da emin değilim. 
+
+Eskiden gitar çalardım, küçükken öğrenmiştim. Uzun süre çalmayınca unuttum. Bu aralar tekrar başlamak istiyorum. Eski gitarımın paslanmış tellerinin ve bozulmuş burgusunun yenilerini sipariş ettim. Önümüzdeki hafta onları takıp ellerimi ısındırmak istiyorum. Daha sonrası için de planım bir klavye almak, bir org. Bu sayede evde bulunduğum süreçte en büyük hayallerimden biri olan piyanoyu öğrenmeye başlabilirim. Kuyruklu bir piyano almam günümüz şartlarında imkansız gibi görünse de hayatın önümüze neler sunacağı belli olmaz. Belki de bir gün bu bloğa piyanoyu nasıl öğrendiğim ve onunla nasıl para kazandığım ile ilgili yazı yazıyor olurum, zaten ileride para kazanmak için ne yapacağım hakkında en ufak bir fikrim yok. Bu da ihtimal dahilinde yani. Şiir ve müzik gerçekten dünya üzerinde en sevdiğim on şey arasında ilk beşe girebilir. Birinci sırada ne var bilmiyorum, iki de henüz belli değil, üç gelecekteki kız arkadaşım, dört arkadaşlarım, beş ise şiir ve müzik. Ama şiir dört buçuk sayılabilir çünkü onu inanılmaz seviyorum. Okumayı ayrı, yazmayı başka bir ayrı seviyorum. Her ne kadar birbirimizi daha çok tanımasak da ben Tristram Shandy'nin yaptığı gibi size bir şeyleri anlatmak ve sizinle bazı paylaşımlar yapmak için üçyüz sayfa yazmayacağım öncesinde. İlk yazımdan bir şeyleri size verdim. Aramızdaki samimiyetin devamı adına da sizinle bu güne kadar sadece dünya üzerinde en değer verdiğim insanlardan ikisi ile paylaştığım bir şiiri paylaşmak istiyorum. Henüz bir başlığı yok, gelecekte olur mu onu da bilemiyorum. Ama bu şiir benim canımı çok yaktı, umarım sizin de ölmek istemenizi sağlar.
+
+
+>**Ahh young louve
+How can ye be sea fair
+How can ye shine sea red 
+And
+How do thou shalt be so immortal**
+
+Haha, gerçekten kalbimi en çok kıran şiiri öylece paylaşacağımı mı düşündünüz? Üzgünüm, onu paylaşmak için kalbim gerçekten fazlasıyla kırık ama bu şiiri de Deniz Akçaoğlu ile konuşurken iki dakika da yazmıştım ve bunu da kimse ile paylaşmadım. Yani aramızdaki özel bağ devam ediyor, merak etme. Sadece, ben Tristram Shandy'yi sevmiştim. Umarım sen de beni seversin. Günümüz gençleri gibi YouTube videoları yapmıyorum, RSS ile takip edebileceğiniz bir blog yayınlıyorum. Tıpkı tarihteki ilk blogger olduğunu iddia ettiğim kişi gibi, doğru bildiniz ***T. S.*** 
+
+Şair gençlerin aşkına şahit olmuş ve gerçekten bu duygu, bu tutku hakkında bir şeyler yazmak istemiş sanırım. Şiir hakkında düşüncelerinizi duymayı isterim. Tabi bana ulaşabilirseniz. 
+(Anasayfada linkler var, kolaylıkla ulaşabilirsiniz.)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+(_lütfen ulaşın_)
