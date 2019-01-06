@@ -14,28 +14,18 @@ Eskiden gitar çalardım, küçükken öğrenmiştim. Uzun süre çalmayınca un
 
 
 >**Ahh young louve
+
 How can ye be sea fair
+
 How can ye shine sea red 
+
 And
+
 How do thou shalt be so immortal**
 
 Haha, gerçekten kalbimi en çok kıran şiiri öylece paylaşacağımı mı düşündünüz? Üzgünüm, onu paylaşmak için kalbim gerçekten fazlasıyla kırık ama bu şiiri de Deniz Akçaoğlu ile konuşurken iki dakika da yazmıştım ve bunu da kimse ile paylaşmadım. Yani aramızdaki özel bağ devam ediyor, merak etme. Sadece, ben Tristram Shandy'yi sevmiştim. Umarım sen de beni seversin. Günümüz gençleri gibi YouTube videoları yapmıyorum, RSS ile takip edebileceğiniz bir blog yayınlıyorum. Tıpkı tarihteki ilk blogger olduğunu iddia ettiğim kişi gibi, doğru bildiniz ***T. S.*** 
 
 Şair gençlerin aşkına şahit olmuş ve gerçekten bu duygu, bu tutku hakkında bir şeyler yazmak istemiş sanırım. Şiir hakkında düşüncelerinizi duymayı isterim. Tabi bana ulaşabilirseniz. 
-(Anasayfada linkler var, kolaylıkla ulaşabilirsiniz.)
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-(_lütfen ulaşın_)
+*(Anasayfada linkler var, kolaylıkla ulaşabilirsiniz.)
+
+*(_lütfen ulaşın_)
