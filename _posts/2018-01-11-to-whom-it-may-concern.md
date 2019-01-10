@@ -14,7 +14,7 @@ Sincerely,
 
 Burak.
 
-# Türkçe
+### Türkçe
 
 Merhaba, bunu muhtemelen okumuyorsun fakat benim içimi dökmek için yazdığım bu yazıyı olur da bir gün okursan eğer bilmeni istediğim bir şey var. Gerçekten çok hoşuma gittin, bir süre için gerçekten hoşuma gittin daha sonra bu duygu büyüdü ve farklı bir şey halini aldı, adını kulakların duysun istemediğim o kimyasal reaksiyon. Bana verdiğin kahkahaları, attığın gülüşleri ve dinlettiğin şeyleri çok sevdim. Kendi zevkime uyduğu için değil belki ama senden gerçekten hoşlandığım için. Birlikte vakit geçirmeyi çok sevdim. 
 
