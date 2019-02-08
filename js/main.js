@@ -39,3 +39,5 @@ function menuClick() {
 }
 
 menuClick();
+
+console.log("to see it, type the word.")
