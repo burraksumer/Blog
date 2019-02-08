@@ -1,5 +1,6 @@
 var normal = document.getElementById("nav-menu");
 var reverse = document.getElementById("nav-menu-left");
+var pag = "ajkhsdjkashdjkafgkfgj"
 
 var icon = normal !== null ? normal : reverse;
 
@@ -36,6 +37,10 @@ function menuClick() {
 	} else {
 		return;
 	}
+}
+
+function paga() {
+	console.log(pag)
 }
 
 menuClick();
