@@ -40,7 +40,8 @@ function menuClick() {
 
 // A prose that I don't want to be seen by everyone but still want in the site.
 
-var pag = "---
+var pag = `
+---
 layout: post
 title:  "Pagan"
 date:   2019-02-01
@@ -94,7 +95,8 @@ Sabah telefonum çaldı, belli baya uykuluydun, yanlışlıkla kendini susturmu�
 
 
 Sonrasında seni aramaya çalıştım ama maalesef sanırım çoktan kaybetmiştim ya da kaybetmiştik, bu konudaki düşüncelerini bilmiyorum. Hareketlerinden gerçekten hoşlanmıştım Pagan, keşke görüşebilseydik. Seninle vakit geçirme şansınız olsaydı, kim bilir belki de bu güne kadar kimsenin eğlenmediği kadar çok eğlenirdik. Belki de şu an seni bu satırlara gömüyor olmazdım. Kalbim biraz kırık, biraz da sarhoş sayılırım. "Kadrolu şarapçılığımı" yaptım. Aklıma bunları yazmak geldi. Her neyse eğer bir gün ucuz şarap, kötü sex veya boş muhabbet istersen eğer ~~numarama~~ sahipsin. 
-"
+
+`
 
 function paga() {
 	console.log(pag)
