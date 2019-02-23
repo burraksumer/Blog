@@ -3,10 +3,18 @@ body.dark {
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #1e2227;
     font-size: 20px;
-    color: #fff;
+    color: #fffff;
   }
   
       body.dark hr {
         border: 1px solid #808080;
+      }
+
+      body.dark #moon {
+          font-size: 20px;
+      }
+
+      body.dark h1{
+          color: #fff;
       }
 // -- Put custom style under this point -- //
