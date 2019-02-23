@@ -1,20 +1,30 @@
 /*- Custom style -*/
+$color_1: #fff;
+$font_family_1: 'Source Sans Pro', sans-serif;
+$background_color_1: #1e2227;
+
+
+body{
+    #moon{
+        font-size: 20px;
+    }
+}
+
+
 body.dark {
-    font-family: 'Source Sans Pro', sans-serif;
-    background-color: #1e2227;
-    font-size: 20px;
-    color: #fffff;
-  }
-  
-      body.dark hr {
-        border: 1px solid #808080;
-      }
+	font-family: $font_family_1;
+	background-color: $background_color_1;
+	font-size: 20px;
+	color: $color_1;
+	hr {
+		border: 1px solid #808080;
+	}
+	#moon {
+		font-size: 20px;
+	}
+	h1 {
+		color: $color_1;
+	}
+}
 
-      body.dark #moon {
-          font-size: 20px;
-      }
-
-      body.dark h1{
-          color: #fff;
-      }
 // -- Put custom style under this point -- //
